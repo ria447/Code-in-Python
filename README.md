@@ -38,3 +38,4 @@ A repository for the solutions to the Coding problems.
 34. [Reverse String 2](https://leetcode.com/problems/reverse-string-ii/)
 35. [Valid Paranthesis](https://leetcode.com/problems/valid-parentheses/)
 36. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/submissions/1963635551/)
+37. [Make the array beautiful](https://www.geeksforgeeks.org/problems/make-the-array-beautiful--170647/1)
