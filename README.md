@@ -39,3 +39,4 @@ A repository for the solutions to the Coding problems.
 35. [Valid Paranthesis](https://leetcode.com/problems/valid-parentheses/)
 36. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/submissions/1963635551/)
 37. [Make the array beautiful](https://www.geeksforgeeks.org/problems/make-the-array-beautiful--170647/1)
+38. [Find the Prefix Common Array of two given arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/?envType=daily-question&envId=2026-05-20)
